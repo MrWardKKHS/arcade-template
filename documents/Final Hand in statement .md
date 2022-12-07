@@ -62,13 +62,12 @@ Other than using tutorials and example code, all this work is my own. I understa
 # Handing in checklist
 
 Please ensure you have the following in your the final commit on the master branch.
-
-- MVP description.
+- The Game design document.
 - All the code.
 - All the assets required to run the game.
 - All the sprint documentation.
-- All the movies used in sprint documentation.
+- All the videos used in sprint documentation or youtube links.
 - All the documents linked to in the sprint documentation.
-- All the testing documentation.
-- Reflection on planning
+- All the testing and trialing documentation.
+- Final Review completed
 - This document, completed and committed.

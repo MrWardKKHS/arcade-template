@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b3413de855e450e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "759087ba34c83182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ac328f33a4a2dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/year-12/Marking Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e17e6fcb6557ae33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sprint-docs/What is a Sprint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5c0c6e9a4da15e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sprint-docs/Sprint Document template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3831630f0152371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "task/year-12/Year 12 Arcade Game Design Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09d118ebb517d5ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1719e4ea8a5eb6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c861859dd6adf83c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9c4088297a32eae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df98009bc303d1e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "83a27d35d91afd1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "305d49b5a2b1eaf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "142bab3bdf18bf97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "task/year-12/Year 12 Arcade Game Design Task.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97efe5703ee629e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "task/year-12/Year 12 Arcade Game Design Task.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e591b34d5b8f630b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5890f6871dbc45a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "task/year-12/Year 12 Arcade Game Design Task.md"
+              }
+            }
+          },
+          {
+            "id": "be1717d2611c129b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e3831630f0152371",
+  "lastOpenFiles": [
+    "sprint-docs/Sprint Document template.md",
+    "Kanban.md",
+    "sprint-docs/What is a Sprint.md",
+    "Game Design Document.md",
+    "testing-and-trialing/Trialing Example.md",
+    "testing-and-trialing/testing.md",
+    "task/year-12/Marking Schedule.md",
+    "task/year-12/Year 12 Arcade Game Design Task.md",
+    "task/year-12/Teacher Info.md",
+    "Final Hand in statement .md"
+  ]
+}

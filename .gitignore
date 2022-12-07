@@ -1,7 +1,7 @@
-# githum python gitignore template
+# github python gitignore template
 
 # Byte-compiled / optimized / DLL files
-__pycache__/
+**__pycache__**
 *.py[cod]
 *$py.class
 
