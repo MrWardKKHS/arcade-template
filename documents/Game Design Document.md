@@ -125,6 +125,12 @@ Do your characters communicate? Is it through audio or text? What key plot eleme
 How does the player know what is going on in the game? What key aspects of the state of the game need to be communicated to the player? Is there a menu or an inventory? Is there a tutorial? How will the player know how to interact with your game? 
 ...
 
+# Technical Requirements
+## Required Technologies
+How will your project be developed, what language will you use, what libraries will  you include. What attributes do these tools have that make it suitable 
+for using in your project. 
+What requirements will your end user have to run the game? How will you distribute it to them? 
+
 # Required Assets
 ## Art 
 ### Objects
