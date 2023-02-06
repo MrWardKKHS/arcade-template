@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3ac328f33a4a2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "testing-and-trialing/Trialing Example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e17e6fcb6557ae33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sprint-docs/What is a Sprint.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5c0c6e9a4da15e4",
+            "id": "9974697dfede1243",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,26 +20,19 @@
             }
           },
           {
-            "id": "e3831630f0152371",
+            "id": "7bcccd1f4c3a0894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/year-12/Year 12 Arcade Game Design Task.md",
+                "file": "task/year-13/Year 13 Marking Schedule.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4e04a4fe99dd339e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "83a27d35d91afd1d",
@@ -129,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testing-and-trialing/Trialing Example.md",
+                "file": "task/year-13/Year 13 Marking Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing-and-trialing/Trialing Example.md",
+                "file": "task/year-13/Year 13 Marking Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testing-and-trialing/Trialing Example.md"
+                "file": "task/year-13/Year 13 Marking Schedule.md"
               }
             }
           },
@@ -186,20 +156,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
-  "active": "a3ac328f33a4a2dd",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7bcccd1f4c3a0894",
   "lastOpenFiles": [
+    "sprint-docs/Sprint Document template.md",
+    "task/year-13/Year 13 Game Design Task.md",
+    "task/year-13/Teacher Info.md",
+    "task/year-12/Teacher Info.md",
+    "testing-and-trialing/Trialing Example.md",
     "task/year-12/Marking Schedule.md",
     "task/year-12/Year 12 Arcade Game Design Task.md",
-    "sprint-docs/Sprint Document template.md",
     "Kanban.md",
     "sprint-docs/What is a Sprint.md",
-    "Game Design Document.md",
-    "testing-and-trialing/Trialing Example.md",
-    "testing-and-trialing/testing.md",
-    "task/year-12/Teacher Info.md",
-    "Final Hand in statement .md"
+    "Game Design Document.md"
   ]
 }
