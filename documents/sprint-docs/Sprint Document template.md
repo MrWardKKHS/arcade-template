@@ -34,7 +34,7 @@
 
 ## **Screenshot of the game at the end of the sprint**
 
-## **Video of the game at the end of the sprint**
+## Link to **Video of the game at the end of the sprint**
 
 
 ## **Notes for next time, future improvements**

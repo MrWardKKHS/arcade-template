@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sprint-docs/Sprint Document template.md",
+                "file": "Game Design Document.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7bcccd1f4c3a0894",
+            "id": "b64ae878e4a6ea47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/year-13/Year 13 Marking Schedule.md",
+                "file": "readme.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "83a27d35d91afd1d",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task/year-13/Year 13 Marking Schedule.md",
+                "file": "readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task/year-13/Year 13 Marking Schedule.md",
+                "file": "readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task/year-13/Year 13 Marking Schedule.md"
+                "file": "readme.md.md"
               }
             }
           },
@@ -156,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bcccd1f4c3a0894",
+  "active": "c861859dd6adf83c",
   "lastOpenFiles": [
-    "sprint-docs/Sprint Document template.md",
-    "task/year-13/Year 13 Game Design Task.md",
-    "task/year-13/Teacher Info.md",
-    "task/year-12/Teacher Info.md",
+    "Game Design Document.md",
+    "Final Hand in statement .md",
     "testing-and-trialing/Trialing Example.md",
-    "task/year-12/Marking Schedule.md",
-    "task/year-12/Year 12 Arcade Game Design Task.md",
-    "Kanban.md",
+    "Final Review.md",
+    "sprint-docs/Sprint Document template.md",
+    "readme.md.md",
     "sprint-docs/What is a Sprint.md",
-    "Game Design Document.md"
+    "task/year-12/Marking Schedule.md",
+    "task/year-12/Teacher Info.md",
+    "task/year-12/Year 12 Arcade Game Design Task.md"
   ]
 }
