@@ -14,9 +14,12 @@ Completed after you have a rough concept of your game but before you have comple
 
 # Sprint Documents
 This includes an explanation of the sprint and a template for you to use. 
+
 Note: DON'T upload vidoes to your repo! Github will not allow files over 50mb. Upload to youtube and provide links.   
 
 # Kanban
 This is a plain Kanban-style board to be used to track progress throughout your sprints.
+
 To use it make sure you are using [Obsidian](https://obsidian.md/) with the [Kanban](https://github.com/mgmeyers/obsidian-kanban) plugin installed
+
 If this is not available to you, use[Trello](https://trello.com/)
