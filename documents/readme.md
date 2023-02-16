@@ -11,7 +11,7 @@ Completed after you have a rough concept of your game but before you have comple
 - [An explanation of Game Design Documents](https://drive.google.com/file/d/17-51Uwxqle3DZVleir6OhDlWA_aerw5g/view)
 - [The original GDD of Monaco](https://www.facebook.com/notes/10159380697433606/)
 - [Bioshock's GDD](https://www.systemshock.org/index.php?PHPSESSID=8db3ltd9nrdharo6sd4ir5r2qn;topic=2121.msg21031#msg21031)
-- [Diabolo GDD]([http://www.graybeardgames.com/download/diablo_pitch.pdf](http://www.graybeardgames.com/download/diablo_pitch.pdf))
+- [Diabolo GDD](http://www.graybeardgames.com/download/diablo_pitch.pdf](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 
 # Sprint Documents
 This includes an explanation of the sprint and a template for you to use. 
